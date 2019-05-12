@@ -1,4 +1,4 @@
-# A basi ring buffer library for use with Mongoose OS
+# A basic ring buffer library for use with Mongoose OS
 
 
 ## Overview
