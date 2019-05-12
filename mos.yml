@@ -1,14 +1,13 @@
-author: mongoose-os
+author: fms1961@gmail.com (mamuesp)
 type: lib
-description: An empty lib that does nothing
+description: An double holding ringbuffer
 version: 1.0
 
 sources:
   - src
-filesystem:
-  - fs
-config_schema:
-libs:
+
+includes:
+  - include 
 
 tags:
   - c
