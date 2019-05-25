@@ -1,7 +1,7 @@
 author: fms1961@gmail.com (mamuesp)
 type: lib
 description: An double holding ringbuffer
-version: 1.0
+version: 2.14.0
 libs_version: ${mos.version}
 modules_version: ${mos.version}
 mongoose_os_version: ${mos.version}
