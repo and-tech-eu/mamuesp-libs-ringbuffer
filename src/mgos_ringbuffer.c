@@ -45,7 +45,7 @@ double mgos_ringbuffer_get_average(mgos_ring_buffer* buf)
 {
     double total = 0.0;
 
-    for (int i = 0; i < buf->count; i++) {
+    for (uint32_t i = 0; i < buf->count; i++) {
         total += ((double*)buf->buffer)[i];
     }
 
